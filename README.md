@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # deepfake-detective
 A website developed from Django Framework which uses the neural networks to classify the morphed videos that are morphed using deepfake softwares. Deepfake softwares are softwares that can alter the faces of person in a video using deep learning techniques. We provide user interface to upload the videos.
 =======
@@ -89,5 +90,3 @@ Please note that currently we have only pushed the image of 20 Frames model, If 
    ***If you need any help regarding the please contact us. We will be happy to help***
    
 ## We deserve a Coffee ☕, Buy one for us  <a href="https://www.buymeacoffee.com/abhijitjadhav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <a href="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning" target="_blank"><img src="https://img.shields.io/badge/UPI-abhijit.jadhav1%40ybl-brightgreen" alt="Medium" style="height: 35px !important;width: 250px !important;"/></a>&nbsp;
-
->>>>>>> 8980211 (Upload)
