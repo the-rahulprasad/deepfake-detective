@@ -7,4 +7,6 @@ uploaded_images/*
 !uploaded_images/Readme.txt
 uploaded_videos/*
 !uploaded_videos/Readme.txt
-
+.dockerignore
+Dockerfile
+nginx/*
